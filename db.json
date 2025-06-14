@@ -1,0 +1,270 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "title": "Black 'Opposite Skull' Print T-Shirt",
+      "price": 48,
+      "originalPrice": 95,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1706635462/MODEL/ECOM/M2R/M2R-011R-MP4546-79/M2R-011R-MP4546-79_1"
+    },
+    {
+      "id": 3,
+      "title": "'Life Drawing' Print Cotton T-Shirt",
+      "price": 125,
+      "originalPrice": 250,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1701350665/MODEL/ECOM/M2R/M2R-011R-MP4442-49/M2R-011R-MP4442-49_1"
+    },
+    {
+      "id": 4,
+      "title": "Dark Navy 'Bottles' Print T-Shirt",
+      "price": 48,
+      "originalPrice": 95,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,w_1440/v1715715084/STILL/M2R/M2R-016Z-N22090-49/M2R-016Z-N22090-49_10"
+    },
+    {
+      "id": 5,
+      "title": "Black Cotton Badges Print T-Shirt",
+      "price": 48,
+      "originalPrice": 95,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1709733623/MODEL/ECOM/M2R/M2R-220X-M22066-35/M2R-220X-M22066-35_1"
+    },
+    {
+      "id": 6,
+      "title": "Slim-Fit Black 'Sticker Skull' T-Shirt",
+      "price": 48,
+      "originalPrice": 95,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1707996624/MODEL/ECOM/M2R/M2R-731Y-MP4541-01/M2R-731Y-MP4541-01_1"
+    },
+    {
+      "id": 7,
+      "title": "Ink Blue Cotton 'Badges' Print T-Shirt",
+      "price": 48,
+      "originalPrice": 95,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1706635155/MODEL/ECOM/M2R/M2R-010R-MP4546-01/M2R-010R-MP4546-01_1"
+    },
+    {
+      "id": 8,
+      "title": "Black Cotton 'Badges' Print T-Shirt",
+      "price": 95,
+      "discounted_price": 48,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1706635454/MODEL/ECOM/M2R/M2R-011R-MP4545-79/M2R-011R-MP4545-79_1"
+    },
+    {
+      "id": 9,
+      "title": "Slim-Fit Black 'Sticker Skull' T-Shirt",
+      "price": 95,
+      "discounted_price": 48,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1701350999/MODEL/ECOM/M2R/M2R-010R-MP4437-79/M2R-010R-MP4437-79_1"
+    },
+    {
+      "id": 10,
+      "title": "Ink Blue Cotton 'Badges' Print T-Shirt",
+      "price": 95,
+      "discounted_price": 48,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1706635440/MODEL/ECOM/M2R/M2R-011R-MP4545-46B/M2R-011R-MP4545-46B_1"
+    },
+    {
+      "id": 11,
+      "title": "Black 'Skull' Print T-Shirt",
+      "price": 95,
+      "discounted_price": 48,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1705057353/STILL/M2R/M2R-220X-MP4535-79/M2R-220X-MP4535-79_10"
+    },
+    {
+      "id": 12,
+      "title": "Ink Blue Cotton 'Badges' Print T-Shirt",
+      "price": 95,
+      "discounted_price": 48,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1706635440/MODEL/ECOM/M2R/M2R-011R-MP4545-46B/M2R-011R-MP4545-46B_1"
+    },
+    {
+      "id": 13,
+      "title": "Slim-Fit 'Opposite Skul' Print T-Shirt",
+      "price": 95,
+      "discounted_price": 48,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1714665796/MODEL/ECOM/M1R/M1R-697PS-H00084-79/M1R-697PS-H00084-79_4"
+    },
+    {
+      "id": 14,
+      "title": "Dark Navy PS Logo Stripe Print T-Shirt",
+      "price": 95,
+      "discounted_price": 48,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1706635440/MODEL/ECOM/M2R/M2R-011R-MP4545-46B/M2R-011R-MP4545-46B_1"
+    },
+    {
+      "id": 15,
+      "title": "Orange Space-Dye Cotton T-Shirt",
+      "price": 115,
+      "discounted_price": 58,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1706688551/MODEL/ECOM/M2R/M2R-783Y-M22014-15/M2R-783Y-M22014-15_1"
+    },
+    {
+      "id": 16,
+      "title": "Navy Cotton 'Happy' Wave T-Shirt",
+      "price": 125,
+      "discounted_price": 63,
+      "discount": "50% OFF",
+      "urls": " https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1707928236/MODEL/ECOM/M2R/M2R-965XP-M21154-48A/M2R-965XP-M21154-48A_1"
+    },
+    {
+      "id": 17,
+      "title": "Powder BLue Jacquard Cotton Polo Shirt",
+      "price": 125,
+      "discounted_price": 63,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1714039589/MODEL/ECOM/M2R/M2R-348Y-M22017-47/M2R-348Y-M22017-47_1"
+    },
+    {
+      "id": 18,
+      "title": "Navy Cotton-Modal Stripe Lounge T-Shirt",
+      "price": 150,
+      "discounted_price": 75,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1707465652/MODEL/ECOM/M1A/M1A-756-MU981-48/M1A-756-MU981-48_1"
+    },
+    {
+      "id": 19,
+      "title": "Pink Linen-Pique Polo Shirt",
+      "price": 250,
+      "discounted_price": 125,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1706268410/MODEL/ECOM/M1R/M1R-660X-M01764-23/M1R-660X-M01764-23_1"
+    },
+    {
+      "id": 20,
+      "title": "Washed Navy 'Signature Stripe' Trim Polo Shirt",
+      "price": 375,
+      "discounted_price": 188,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1706268290/MODEL/ECOM/M1R/M1R-958PP-L00089-47/M1R-958PP-L00089-47_1"
+    },
+    {
+      "id": 21,
+      "title": "'Singnture Stripe' Cotton T-Shirt",
+      "price": 325,
+      "discounted_price": 0,
+      "discount": "",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1715951030/MODEL/ECOM/M1R/M1R-919T-N02434-92/M1R-919T-N02434-92_1"
+    },
+    {
+      "id": 22,
+      "title": "White 'Artist Stripe' Collar Cotton T-Shirt",
+      "price": 175,
+      "discounted_price": 0,
+      "discount": "",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1715171453/MODEL/ECOM/M1R/M1R-697PS-H00084-01/M1R-697PS-H00084-01_4"
+    },
+    {
+      "id": 23,
+      "title": "Pink 'Artist Stripe' Collar Cotton T-Shirt",
+      "price": 175,
+      "discounted_price": 48,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1721125941/MODEL/ECOM/M1R/M1R-697PS-H00084-21A/M1R-697PS-H00084-21A_1"
+    },
+    {
+      "id": 24,
+      "title": "Dusty Blue 'Artist Stripe' Collar Cotton T-Shirt",
+      "price": 175,
+      "discounted_price": 0,
+      "discount": "F",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1721205039/STILL/M1R/M1R-697PS-H00084-43/M1R-697PS-H00084-43_10"
+    },
+    {
+      "id": 25,
+      "title": "Cobalt Blue 'Artist Stripe' Collar Cotton T-Shirt",
+      "price": 175,
+      "discounted_price": 0,
+      "discount": "",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1721125947/MODEL/ECOM/M1R/M1R-697PS-H00084-48B/M1R-697PS-H00084-48B_1"
+    },
+    {
+      "id": 26,
+      "title": "Navy 'Artist Stripe' Collar Cotton T-Shirt",
+      "price": 175,
+      "discounted_price": 0,
+      "discount": "",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1714665753/MODEL/ECOM/M1R/M1R-697PS-H00084-49/M1R-697PS-H00084-49_1"
+    },
+    {
+      "id": 27,
+      "title": "White Cotton T-Shirt with 'Artist Stripe'Trim ",
+      "price": 195,
+      "discounted_price": 0,
+      "discount": "",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1679993603/MODEL/ECOM/M1R/M1R-697PS-D00084-01/M1R-697PS-D00084-01_5"
+    },
+    {
+      "id": 28,
+      "title": "White 'Signature Stripe' Pocket T-Shirt",
+      "price": 295,
+      "discounted_price": 0,
+      "discount": "",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1715171442/MODEL/ECOM/M1R/M1R-306U-H00088-01/M1R-306U-H00088-01_3"
+    },
+    {
+      "id": 29,
+      "title": "Navy 'Signature Stripe' Pocket T-Shirt",
+      "price": 295,
+      "discounted_price": 0,
+      "discount": "",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1691144517/MODEL/ECOM/M1R/M1R-306U-H00088-49/M1R-306U-H00088-49_1"
+    },
+    {
+      "id": 30,
+      "title": "Ecru 'Signature Stripe' Pocket T-Shirt",
+      "price": 175,
+      "discounted_price": 0,
+      "discount": "",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1720429415/MODEL/ECOM/M1R/M1R-919T-NP4724-02/M1R-919T-NP4724-02_3"
+    },
+    {
+      "id": 31,
+      "title": "'Sketchbook Botanical' Print T-Shirt",
+      "price": 295,
+      "discounted_price": 0,
+      "discount": "",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1716546527/MODEL/ECOM/M1R/M1R-919T-NP4320-02/M1R-919T-NP4320-02_1"
+    }
+  ],
+  "cart": [
+    {
+      "id": 4,
+      "title": "Dark Navy 'Bottles' Print T-Shirt",
+      "price": 48,
+      "originalPrice": 95,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,w_1440/v1715715084/STILL/M2R/M2R-016Z-N22090-49/M2R-016Z-N22090-49_10"
+    },
+    {
+      "id": 12,
+      "title": "Ink Blue Cotton 'Badges' Print T-Shirt",
+      "price": 95,
+      "discounted_price": 48,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1706635440/MODEL/ECOM/M2R/M2R-011R-MP4545-46B/M2R-011R-MP4545-46B_1"
+    },
+    {
+      "id": 1,
+      "title": "Black 'Opposite Skull' Print T-Shirt",
+      "price": 48,
+      "originalPrice": 95,
+      "discount": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_webp,q_auto,ar_5:7,c_fill,w_614/v1706635462/MODEL/ECOM/M2R/M2R-011R-MP4546-79/M2R-011R-MP4546-79_1"
+    }
+  ]
+}
